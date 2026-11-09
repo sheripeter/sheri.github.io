@@ -1,5 +1,6 @@
 ---
 title: Sheri Peter | Frontend Developer
+description: Junior Web Developer specializing in JavaScript, React.js and responsive web development.
 ---
 
 # 👋 Hi, I'm Sheri Peter!
